@@ -9,6 +9,6 @@ services:
 
     environment:
         - NODE_ENV=production
-        - REACT_APP_USERS_SERVICE_URL=http://127.0.0.1:5000
+        - REACT_APP_USERS_SERVICE_URL=http://ec2-13-125-55-210.ap-northeast-2.compute.amazonaws.com:5000
         - CHOKIDAR_USEPOLLING=true
         - GENERATE_SOURCEMAP=false
