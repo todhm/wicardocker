@@ -25,6 +25,7 @@
     "react-select": "^1.2.1",
     "react-sidebar": "^2.3.2",
     "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.5",
     "redux-persist": "^5.10.0",
     "redux-thunk": "^2.2.0"
   },
